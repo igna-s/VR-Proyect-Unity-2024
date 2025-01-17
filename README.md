@@ -39,15 +39,13 @@ The project was presented at **Expo Science 2024**, an event attended by Univers
 ---
 
 
-## 👨‍🏫 Coordinators
+## 👥 Team
 
+### 🧑‍🏫 Coordinators
 - **Lic. Sebastián Dapoto**  
 - **Lic. Federico Cristina**
 
----
-
-## 👩‍💻 Programmers
-
+### 👨‍💻 Programmers
 - **Restucha, Tiago**  
 - **Schwindt, Ignacio Andrés**  
 - **Barbero, Lautaro**
