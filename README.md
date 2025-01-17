@@ -38,6 +38,22 @@ The project was presented at **Expo Science 2024**, an event attended by Univers
 
 ---
 
+
+## 👨‍🏫 Coordinators
+
+- **Lic. Sebastián Dapoto**  
+- **Lic. Federico Cristina**
+
+---
+
+## 👩‍💻 Programmers
+
+- **Restucha, Tiago**  
+- **Schwindt, Ignacio Andrés**  
+- **Barbero, Lautaro**
+
+---
+
 ## 🔗 Useful Links
 
 [![Sweet Home 3D](https://img.shields.io/badge/Sweet%20Home%203D-Website-blue)](https://www.sweethome3d.com/)  
@@ -55,5 +71,11 @@ This project was developed as part of an academic initiative and has no usage re
 
 [![Email](https://img.shields.io/badge/Email-info@lidi.unlp.edu.ar-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@lidi.unlp.edu.ar)  
 [![Website](https://img.shields.io/badge/Visit-LIDI%20Website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://weblidi.info.unlp.edu.ar/)  
+
+
+
+
+
+
  
 
