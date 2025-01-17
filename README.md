@@ -34,7 +34,7 @@ The project was presented at **Expo Science 2024**, an event attended by Univers
 
 ## 📸 Project Preview
 
-<img src="https://via.placeholder.com/800x400" alt="Screenshot of the virtual tour" />
+<img src="Image.png" alt="Screenshot of the virtual tour" />
 
 ---
 
@@ -45,10 +45,15 @@ The project was presented at **Expo Science 2024**, an event attended by Univers
 [![Unity](https://img.shields.io/badge/Unity-Website-red)](https://unity.com/)  
 
 
+## 📜 License
+
+This project was developed as part of an academic initiative and has no usage restrictions from me or my parnerts. However, please credit **LIDI** and **UNLP** in any reproduction or presentation.
+
+
 
 ## 💬 Contact (LIDI)
 
-📧 Email: [info@lidi.unlp.edu.ar](mailto:info@lidi.unlp.edu.ar)  
-🌐 Institute Website: [LIDI](https://weblidi.info.unlp.edu.ar/)  
+[![Email](https://img.shields.io/badge/Email-info@lidi.unlp.edu.ar-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@lidi.unlp.edu.ar)  
+[![Website](https://img.shields.io/badge/Visit-LIDI%20Website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://weblidi.info.unlp.edu.ar/)  
  
 
